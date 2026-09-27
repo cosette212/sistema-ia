@@ -1,4 +1,4 @@
 nombre_modelo=clasificador
-version=2
+version=1
 entorno=desorrollo
 
